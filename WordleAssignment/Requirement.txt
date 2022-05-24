@@ -1,0 +1,4 @@
+1)Install Xampp Server
+2)Save your folder into Xampp htdocs folder
+3)Start Xampp Server and start Apache
+4)Run Wordle.html file on your Localhost
